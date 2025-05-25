@@ -1,0 +1,32 @@
+>> Activity01
+
+balance =
+
+        1000
+
+1.Deposit:
+Withdraw :
+Balance Inquiry 
+Exit:
+Please select an option(1-4:1
+Enter the amount to deposit:1000
+Deposit succesfull! Your new balance is: 2000.00
+1.Deposit:
+Withdraw :
+Balance Inquiry 
+Exit:
+Please select an option(1-4:2
+Enter the amount to withdraw: 500
+Withdrawal successful! Your new balance is: 1500.00
+1.Deposit:
+Withdraw :
+Balance Inquiry 
+Exit:
+Please select an option(1-4:3
+Your current balance is: 1500.00
+1.Deposit:
+Withdraw :
+Balance Inquiry 
+Exit:
+Please select an option(1-4:4
+Thank you for using ATM>> 
