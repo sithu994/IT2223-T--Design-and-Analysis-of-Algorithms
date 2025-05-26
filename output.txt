@@ -1,0 +1,10 @@
+>>linear_or_binary
+Time for Linear Search: 0.006521 seconds
+Time for Binary Search: 0.005563 seconds
+Element found at index 591
+Time for Linear Search: 0.001054 seconds
+Time for Binary Search: 0.003259 seconds
+Element not found
+>> selection
+Sorted Array:
+    11    12    22    25    64
