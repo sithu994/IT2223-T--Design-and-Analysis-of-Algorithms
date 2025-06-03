@@ -1,1 +1,5 @@
-# IT2223-T--Design-and-Analysis-of-Algorithms
+# IT2223-T--Design-and-Analysis-of-Algorithms![bubblesort](https://github.com/user-attachments/assets/49422a80-1917-49bb-9871-0cb2f68418ee)
+![insertion](https://github.com/user-attachments/assets/a2d38a1d-5f52-4041-8481-19a8b8f1dde9)
+![mergesort](https://github.com/user-attachments/assets/bee16234-4312-4d22-ad17-3f16c1751526)
+![quickshort_code](https://github.com/user-attachments/assets/93d4d6ed-8a4b-4f33-853b-98315bba014e)
+![selection](https://github.com/user-attachments/assets/0c9be942-2f0f-4e3b-ad25-4bc731bc74c8)
